@@ -1,0 +1,351 @@
+[package]
+name = "leetcode"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "merge-sorted-array"
+path = "src/main.rs"
+
+[[bin]]
+name = "remove-element"
+path = "src/remove.rs"
+
+[[bin]]
+name = "remove-duplicates"
+path = "src/remove-duplicates.rs"
+
+[[bin]]
+name = "remove-duplicates-2"
+path = "src/remove-duplicates-2.rs"
+
+[[bin]]
+name = "majority"
+path = "src/majority.rs"
+
+[[bin]]
+name = "rotate-array"
+path = "src/rotate-array.rs"
+
+[[bin]]
+name = "best-buy"
+path = "src/best-buy.rs"
+
+[[bin]]
+name = "best-buy-2"
+path = "src/best-buy-2.rs"
+
+[[bin]]
+name = "jump-game"
+path = "src/jump-game.rs"
+
+[[bin]]
+name = "jump-game-2"
+path = "src/jump-game-2.rs"
+
+[[bin]]
+name = "roman-int"
+path = "src/roman-int.rs"
+
+[[bin]]
+name = "int-roman"
+path = "src/int-roman.rs"
+
+[[bin]]
+name = "length-world"
+path = "src/length-world.rs"
+
+[[bin]]
+name = "h-index"
+path = "src/h-index.rs"
+
+[[bin]]
+name = "long-prefix"
+path = "src/long-prefix.rs"
+
+[[bin]]
+name = "reverse-words"
+path = "src/reverse-words.rs"
+
+[[bin]]
+name = "find-index"
+path = "src/find-index.rs"
+
+[[bin]]
+name = "product-array"
+path = "src/product-array.rs"
+
+[[bin]]
+name = "insert-delete-random"
+path = "src/insert-delete-random.rs"
+
+[[bin]]
+name = "zigzag"
+path = "src/zigzag.rs"
+
+[[bin]]
+name = "justify"
+path = "src/justify.rs"
+
+[[bin]]
+name = "valid-palindrome"
+path = "src/valid-palindrome.rs"
+
+[[bin]]
+name = "subsequence"
+path = "src/subsequence.rs"
+
+[[bin]]
+name = "ransom-note"
+path = "src/ransom-note.rs"
+
+[[bin]]
+name = "anagram"
+path = "src/anagram.rs"
+
+[[bin]]
+name = "two-sum"
+path = "src/two-sum.rs"
+
+[[bin]]
+name = "two-sum-2"
+path = "src/two-sum-2.rs"
+
+[[bin]]
+name = "gas-station"
+path = "src/gas-station.rs"
+
+[[bin]]
+name = "candy"
+path = "src/candy.rs"
+
+[[bin]]
+name = "rain-water"
+path = "src/rain-water.rs"
+
+[[bin]]
+name = "contains-duplicate-2"
+path = "src/contains-duplicate-2.rs"
+
+[[bin]]
+name = "most-water"
+path = "src/most-water.rs"
+
+[[bin]]
+name = "3sum"
+path = "src/3sum.rs"
+
+[[bin]]
+name = "min-size-sub-sum"
+path = "src/min-size-sub-sum.rs"
+
+[[bin]]
+name = "long-sub-char"
+path = "src/long-sub-char.rs"
+
+[[bin]]
+name = "sub-concat-words"
+path = "src/sub-concat-words.rs"
+
+[[bin]]
+name = "min-window-sub"
+path = "src/min-window-sub.rs"
+
+[[bin]]
+name = "valid-sudoku"
+path = "src/valid-sudoku.rs"
+
+[[bin]]
+name = "spiral-matrix"
+path = "src/spiral-matrix.rs"
+
+[[bin]]
+name = "rotate-image"
+path = "src/rotate-image.rs"
+
+[[bin]]
+name = "matrix-zeroes"
+path = "src/matrix-zeroes.rs"
+
+[[bin]]
+name = "game-life"
+path = "src/game-life.rs"
+
+[[bin]]
+name = "isomorphic"
+path = "src/isomorphic.rs"
+
+[[bin]]
+name = "word-pattern"
+path = "src/word-pattern.rs"
+
+[[bin]]
+name = "group-anagrams"
+path = "src/group-anagrams.rs"
+
+[[bin]]
+name = "happy-number"
+path = "src/happy-number.rs"
+
+[[bin]]
+name = "longest-consecutive"
+path = "src/longest-consecutive.rs"
+
+[[bin]]
+name = "valid-parentheses"
+path = "src/valid-parentheses.rs"
+
+[[bin]]
+name = "simply-path"
+path = "src/simply-path.rs"
+
+[[bin]]
+name = "min-stack"
+path = "src/min-stack.rs"
+
+[[bin]]
+name = "reverse-polish"
+path = "src/reverse-polish.rs"
+
+[[bin]]
+name = "basic-calculator"
+path = "src/basic-calculator.rs"
+
+[[bin]]
+name = "list-cycle"
+path = "src/list-cycle.rs"
+
+[[bin]]
+name = "search-insert-position"
+path = "src/search-insert-position.rs"
+
+[[bin]]
+name = "search-2d"
+path = "src/search-2d.rs"
+
+[[bin]]
+name = "find-peak"
+path = "src/find-peak.rs"
+
+[[bin]]
+name = "search-rotate"
+path = "src/search-rotate.rs"
+
+[[bin]]
+name = "find-first-last"
+path = "src/find-first-last.rs"
+
+[[bin]]
+name = "find-min-rotate"
+path = "src/find-min-rotate.rs"
+
+[[bin]]
+name = "median-of-two"
+path = "src/median-of-two.rs"
+
+[[bin]]
+name = "add-two-numbers"
+path = "src/add-two-numbers.rs"
+
+[[bin]]
+name = "merge-sorted-lists"
+path = "src/merge-sorted-lists.rs"
+
+[[bin]]
+name = "reverse-linkedlist-2"
+path = "src/reverse-linkedlist-2.rs"
+
+[[bin]]
+name = "reverse-node-group"
+path = "src/reverse-node-group.rs"
+
+[[bin]]
+name = "remove-node-end"
+path = "src/remove-node-end.rs"
+
+[[bin]]
+name = "remove-duplicates-nodes"
+path = "src/remove-duplicates-nodes.rs"
+
+[[bin]]
+name = "rotate-list"
+path = "src/rotate-list.rs"
+
+[[bin]]
+name = "partition-list"
+path = "src/partition-list.rs"
+
+[[bin]]
+name = "lru-cache"
+path = "src/lru-cache.rs"
+
+[[bin]]
+name = "max-depth-bt"
+path = "src/max-depth-bt.rs"
+
+[[bin]]
+name = "same-tree"
+path = "src/same-tree.rs"
+
+[[bin]]
+name = "invert-tree"
+path = "src/invert-tree.rs"
+
+[[bin]]
+name = "symmetric-tree"
+path = "src/symmetric-tree.rs"
+
+[[bin]]
+name = "preorder-inorder-tree"
+path = "src/preorder-inorder-tree.rs"
+
+[[bin]]
+name = "inorder-postorder-tree"
+path = "src/inorder-postorder-tree.rs"
+
+[[bin]]
+name = "flatten-tree"
+path = "src/flatten-tree.rs"
+
+[[bin]]
+name = "path-sum"
+path = "src/path-sum.rs"
+
+[[bin]]
+name = "sum-root"
+path = "src/sum-root.rs"
+
+[[bin]]
+name = "bt-max-path"
+path = "src/bt-max-path.rs"
+
+[[bin]]
+name = "bt-iterator"
+path = "src/bt-iterator.rs"
+
+[[bin]]
+name = "count-bt"
+path = "src/count-bt.rs"
+
+[[bin]]
+name = "lowest-ancestor-bt"
+path = "src/lowest-ancestor-bt.rs"
+
+[[bin]]
+name = "right-view"
+path = "src/right-view.rs"
+
+[[bin]]
+name = "average-levels"
+path = "src/average-levels.rs"
+
+[[bin]]
+name = "level-order"
+path = "src/level-order.rs"
+
+[[bin]]
+name = "zigzag-level-order"
+path = "src/zigzag-level-order.rs"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
