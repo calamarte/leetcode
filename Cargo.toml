@@ -351,6 +351,10 @@ path = "src/zigzag-level-order.rs"
 name = "min-abs-bst"
 path = "src/min-abs-bst.rs"
 
+[[bin]]
+name = "smallest-element-bst"
+path = "src/smallest-element-bst.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
