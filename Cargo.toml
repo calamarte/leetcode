@@ -355,6 +355,10 @@ path = "src/min-abs-bst.rs"
 name = "smallest-element-bst"
 path = "src/smallest-element-bst.rs"
 
+[[bin]]
+name = "validate-bst"
+path = "src/validate-bst.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
