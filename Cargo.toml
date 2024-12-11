@@ -359,6 +359,10 @@ path = "src/smallest-element-bst.rs"
 name = "validate-bst"
 path = "src/validate-bst.rs"
 
+[[bin]]
+name = "trie"
+path = "src/trie.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
