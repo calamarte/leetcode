@@ -363,6 +363,10 @@ path = "src/validate-bst.rs"
 name = "trie"
 path = "src/trie.rs"
 
+[[bin]]
+name = "word-dictionary"
+path = "src/word-dictionary.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
