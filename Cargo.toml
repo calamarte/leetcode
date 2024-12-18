@@ -375,6 +375,10 @@ path = "src/word-search-2.rs"
 name = "find_kth_largest"
 path = "src/find_kth_largest.rs"
 
+[[bin]]
+name = "find_k_pairs"
+path = "src/find_k_pairs.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
