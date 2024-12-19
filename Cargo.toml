@@ -379,6 +379,10 @@ path = "src/find_kth_largest.rs"
 name = "find_k_pairs"
 path = "src/find_k_pairs.rs"
 
+[[bin]]
+name = "ipo"
+path = "src/ipo.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
