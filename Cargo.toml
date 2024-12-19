@@ -383,6 +383,10 @@ path = "src/find_k_pairs.rs"
 name = "ipo"
 path = "src/ipo.rs"
 
+[[bin]]
+name = "median_finder"
+path = "src/median_finder.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
