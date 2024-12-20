@@ -391,6 +391,10 @@ path = "src/median_finder.rs"
 name = "summary_ranges"
 path = "src/summary_ranges.rs"
 
+[[bin]]
+name = "merge_intervals"
+path = "src/merge_intervals.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
