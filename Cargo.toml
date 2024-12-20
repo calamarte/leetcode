@@ -387,6 +387,10 @@ path = "src/ipo.rs"
 name = "median_finder"
 path = "src/median_finder.rs"
 
+[[bin]]
+name = "summary_ranges"
+path = "src/summary_ranges.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
