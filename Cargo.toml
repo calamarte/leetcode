@@ -395,6 +395,10 @@ path = "src/summary_ranges.rs"
 name = "merge_intervals"
 path = "src/merge_intervals.rs"
 
+[[bin]]
+name = "insert_interval"
+path = "src/insert_interval.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
