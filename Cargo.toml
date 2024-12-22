@@ -399,6 +399,10 @@ path = "src/merge_intervals.rs"
 name = "insert_interval"
 path = "src/insert_interval.rs"
 
+[[bin]]
+name = "min_arrow_shots"
+path = "src/min_arrow_shots.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
