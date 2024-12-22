@@ -407,6 +407,10 @@ path = "src/min_arrow_shots.rs"
 name = "letter_combinations"
 path = "src/letter_combinations.rs"
 
+[[bin]]
+name = "combinations"
+path = "src/combinations.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
