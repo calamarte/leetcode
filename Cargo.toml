@@ -411,6 +411,10 @@ path = "src/letter_combinations.rs"
 name = "combinations"
 path = "src/combinations.rs"
 
+[[bin]]
+name = "permutations"
+path = "src/permutations.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
