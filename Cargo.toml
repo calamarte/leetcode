@@ -431,6 +431,10 @@ path = "src/gen_parentheses.rs"
 name = "word_search"
 path = "src/word_search.rs"
 
+[[bin]]
+name = "num_islands"
+path = "src/num_islands.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
