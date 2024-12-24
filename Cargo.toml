@@ -423,6 +423,10 @@ path = "src/combination_sum.rs"
 name = "n_queens_2"
 path = "src/n_queens_2.rs"
 
+[[bin]]
+name = "gen_parentheses"
+path = "src/gen_parentheses.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
