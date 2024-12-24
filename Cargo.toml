@@ -427,6 +427,10 @@ path = "src/n_queens_2.rs"
 name = "gen_parentheses"
 path = "src/gen_parentheses.rs"
 
+[[bin]]
+name = "word_search"
+path = "src/word_search.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
