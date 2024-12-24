@@ -419,6 +419,10 @@ path = "src/permutations.rs"
 name = "combination_sum"
 path = "src/combination_sum.rs"
 
+[[bin]]
+name = "n_queens_2"
+path = "src/n_queens_2.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
