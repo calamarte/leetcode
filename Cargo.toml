@@ -435,6 +435,10 @@ path = "src/word_search.rs"
 name = "num_islands"
 path = "src/num_islands.rs"
 
+[[bin]]
+name = "surrounded_regions"
+path = "src/surrounded_regions.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
