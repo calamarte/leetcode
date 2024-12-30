@@ -17,8 +17,8 @@ fn main() {
     println!("Result -> {}", num_islands(grid));
 }
 
-/// Time complexity: $$O(n /cdot m)$$
-/// Space complexity: $$O(n /cdot m)$$
+/// Time complexity: $$O(n \cdot m)$$
+/// Space complexity: $$O(n \cdot m)$$
 fn num_islands(mut grid: Vec<Vec<char>>) -> i32 {
     fn dfs(grid: &mut [Vec<char>], cord: (usize, usize)) {
         const DIRECTIONS: [(isize, isize); 4] = [(1, 0), (-1, 0), (0, 1), (0, -1)];

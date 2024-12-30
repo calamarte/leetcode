@@ -28,8 +28,8 @@ fn main() {
     board_print(&board);
 }
 
-/// Time complexity: $$O(m /cdot n)$$
-/// Space complexity: $$O(m /cdot n)$$
+/// Time complexity: $$O(m \cdot n)$$
+/// Space complexity: $$O(m \cdot n)$$
 #[allow(clippy::ptr_arg)]
 fn solve(board: &mut Vec<Vec<char>>) {
     /// Interactive DFS
