@@ -443,6 +443,10 @@ path = "src/surrounded_regions.rs"
 name = "evaluate_division"
 path = "src/evaluate_division.rs"
 
+[[bin]]
+name = "course_schedule"
+path = "src/course_schedule.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
