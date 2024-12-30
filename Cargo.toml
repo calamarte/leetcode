@@ -439,6 +439,10 @@ path = "src/num_islands.rs"
 name = "surrounded_regions"
 path = "src/surrounded_regions.rs"
 
+[[bin]]
+name = "evaluate_division"
+path = "src/evaluate_division.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
