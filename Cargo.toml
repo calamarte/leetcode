@@ -447,6 +447,10 @@ path = "src/evaluate_division.rs"
 name = "course_schedule"
 path = "src/course_schedule.rs"
 
+[[bin]]
+name = "course_schedule_2"
+path = "src/course_schedule_2.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
