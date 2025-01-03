@@ -19,7 +19,7 @@ fn main() {
     println!("Result -> {}", find_min_arrow_shots(points));
 }
 
-/// - Time complexity: $$O(n /log n)$$
+/// - Time complexity: $$O(n \log n)$$
 /// - Space complexity: $$O(1)$$
 fn find_min_arrow_shots(mut points: Vec<Vec<i32>>) -> i32 {
     if points.is_empty() {

@@ -18,7 +18,7 @@ fn main() {
 }
 
 // INFO: Sort isn't necessary intervals begins sorted by start
-/// Time complexity: $$O(n /log n)$$
+/// Time complexity: $$O(n \log n)$$
 /// Space complexity: $$O(n)$$
 fn insert(mut intervals: Vec<Vec<i32>>, new_interval: Vec<i32>) -> Vec<Vec<i32>> {
     intervals.push(new_interval);
