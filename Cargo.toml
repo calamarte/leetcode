@@ -455,6 +455,10 @@ path = "src/course_schedule_2.rs"
 name = "snakes_ladders"
 path = "src/snakes_ladders.rs"
 
+[[bin]]
+name = "min_mutation"
+path = "src/min_mutation.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
