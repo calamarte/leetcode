@@ -451,6 +451,10 @@ path = "src/course_schedule.rs"
 name = "course_schedule_2"
 path = "src/course_schedule_2.rs"
 
+[[bin]]
+name = "snakes_ladders"
+path = "src/snakes_ladders.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
