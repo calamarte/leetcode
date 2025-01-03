@@ -463,6 +463,10 @@ path = "src/min_mutation.rs"
 name = "ladder_length"
 path = "src/ladder_length.rs"
 
+[[bin]]
+name = "climbing_stairs"
+path = "src/climbing_stairs.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
