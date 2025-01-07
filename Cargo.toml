@@ -471,6 +471,10 @@ path = "src/climbing_stairs.rs"
 name = "house_robber"
 path = "src/house_robber.rs"
 
+[[bin]]
+name = "word_break"
+path = "src/word_break.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
