@@ -467,6 +467,10 @@ path = "src/ladder_length.rs"
 name = "climbing_stairs"
 path = "src/climbing_stairs.rs"
 
+[[bin]]
+name = "house_robber"
+path = "src/house_robber.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
