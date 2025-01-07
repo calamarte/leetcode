@@ -475,6 +475,10 @@ path = "src/house_robber.rs"
 name = "word_break"
 path = "src/word_break.rs"
 
+[[bin]]
+name = "coin_change"
+path = "src/coin_change.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
