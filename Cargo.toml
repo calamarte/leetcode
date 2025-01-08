@@ -491,6 +491,10 @@ path = "src/triangle.rs"
 name = "min_path_sum"
 path = "src/min_path_sum.rs"
 
+[[bin]]
+name = "unique_paths_2"
+path = "src/unique_paths_2.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]

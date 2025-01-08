@@ -1,7 +1,5 @@
 #![allow(dead_code)]
 
-use std::i32;
-
 fn main() {
     let grid = vec![vec![1, 3, 1], vec![1, 5, 1], vec![4, 2, 1]];
 
