@@ -483,6 +483,10 @@ path = "src/coin_change.rs"
 name = "length_lis"
 path = "src/length_lis.rs"
 
+[[bin]]
+name = "triangle"
+path = "src/triangle.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
