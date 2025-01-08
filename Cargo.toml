@@ -479,6 +479,10 @@ path = "src/word_break.rs"
 name = "coin_change"
 path = "src/coin_change.rs"
 
+[[bin]]
+name = "length_lis"
+path = "src/length_lis.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
