@@ -495,6 +495,10 @@ path = "src/min_path_sum.rs"
 name = "unique_paths_2"
 path = "src/unique_paths_2.rs"
 
+[[bin]]
+name = "longest_palindrome"
+path = "src/longest_palindrome.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
