@@ -499,6 +499,10 @@ path = "src/unique_paths_2.rs"
 name = "longest_palindrome"
 path = "src/longest_palindrome.rs"
 
+[[bin]]
+name = "interleaving"
+path = "src/interleaving.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
