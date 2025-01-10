@@ -503,6 +503,10 @@ path = "src/longest_palindrome.rs"
 name = "interleaving"
 path = "src/interleaving.rs"
 
+[[bin]]
+name = "add_binary"
+path = "src/add_binary.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
