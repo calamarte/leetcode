@@ -511,6 +511,10 @@ path = "src/add_binary.rs"
 name = "min_distance"
 path = "src/min_distance.rs"
 
+[[bin]]
+name = "best_buy_3"
+path = "src/best_buy_3.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
