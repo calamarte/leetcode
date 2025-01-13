@@ -507,6 +507,10 @@ path = "src/interleaving.rs"
 name = "add_binary"
 path = "src/add_binary.rs"
 
+[[bin]]
+name = "min_distance"
+path = "src/min_distance.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
