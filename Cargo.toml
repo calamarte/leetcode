@@ -515,6 +515,10 @@ path = "src/min_distance.rs"
 name = "best_buy_3"
 path = "src/best_buy_3.rs"
 
+[[bin]]
+name = "maximal_square"
+path = "src/maximal_square.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
