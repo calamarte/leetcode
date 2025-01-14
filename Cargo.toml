@@ -516,6 +516,10 @@ name = "best_buy_3"
 path = "src/best_buy_3.rs"
 
 [[bin]]
+name = "best_buy_4"
+path = "src/best_buy_4.rs"
+
+[[bin]]
 name = "maximal_square"
 path = "src/maximal_square.rs"
 
