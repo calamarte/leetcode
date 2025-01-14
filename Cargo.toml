@@ -527,6 +527,10 @@ path = "src/maximal_square.rs"
 name = "reverse_bits"
 path = "src/reverse_bits.rs"
 
+[[bin]]
+name = "number_bits"
+path = "src/number_bits.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
