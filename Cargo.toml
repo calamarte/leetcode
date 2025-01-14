@@ -523,6 +523,10 @@ path = "src/best_buy_4.rs"
 name = "maximal_square"
 path = "src/maximal_square.rs"
 
+[[bin]]
+name = "reverse_bits"
+path = "src/reverse_bits.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
