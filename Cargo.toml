@@ -531,6 +531,10 @@ path = "src/reverse_bits.rs"
 name = "number_bits"
 path = "src/number_bits.rs"
 
+[[bin]]
+name = "single_number"
+path = "src/single_number.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
