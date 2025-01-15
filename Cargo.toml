@@ -543,6 +543,10 @@ path = "src/single_number_2.rs"
 name = "range_bitwise_and"
 path = "src/range_bitwise_and.rs"
 
+[[bin]]
+name = "plus_one"
+path = "src/plus_one.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
