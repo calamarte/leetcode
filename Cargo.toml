@@ -547,6 +547,10 @@ path = "src/range_bitwise_and.rs"
 name = "plus_one"
 path = "src/plus_one.rs"
 
+[[bin]]
+name = "factorial_zeros"
+path = "src/factorial_zeros.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
