@@ -551,6 +551,10 @@ path = "src/plus_one.rs"
 name = "factorial_zeros"
 path = "src/factorial_zeros.rs"
 
+[[bin]]
+name = "sqrt"
+path = "src/sqrt.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
