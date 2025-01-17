@@ -559,6 +559,10 @@ path = "src/sqrt.rs"
 name = "pow"
 path = "src/pow.rs"
 
+[[bin]]
+name = "max_points"
+path = "src/max_points.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
