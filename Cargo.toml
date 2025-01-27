@@ -567,6 +567,10 @@ path = "src/max_points.rs"
 name = "array_to_bst"
 path = "src/array_to_bst.rs"
 
+[[bin]]
+name = "sort_list"
+path = "src/sort_list.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
