@@ -571,6 +571,10 @@ path = "src/array_to_bst.rs"
 name = "sort_list"
 path = "src/sort_list.rs"
 
+[[bin]]
+name = "merge_k_sorted"
+path = "src/merge_k_sorted.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
