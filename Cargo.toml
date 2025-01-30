@@ -575,6 +575,10 @@ path = "src/sort_list.rs"
 name = "merge_k_sorted"
 path = "src/merge_k_sorted.rs"
 
+[[bin]]
+name = "max_subarray"
+path = "src/max_subarray.rs"
+
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
