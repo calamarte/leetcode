@@ -3,4 +3,8 @@ name = "l75"
 version = "0.1.0"
 edition = "2021"
 
+[[bin]]
+name = "merge_alt"
+path = "src/merge_alt.rs"
+
 [dependencies]
