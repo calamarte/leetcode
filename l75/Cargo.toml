@@ -7,4 +7,8 @@ edition = "2021"
 name = "merge_alt"
 path = "src/merge_alt.rs"
 
+[[bin]]
+name = "greates_div"
+path = "src/greates_div.rs"
+
 [dependencies]
