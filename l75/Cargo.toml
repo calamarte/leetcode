@@ -11,4 +11,8 @@ path = "src/merge_alt.rs"
 name = "greates_div"
 path = "src/greates_div.rs"
 
+[[bin]]
+name = "kids_candies"
+path = "src/kids_candies.rs"
+
 [dependencies]
