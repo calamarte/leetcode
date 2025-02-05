@@ -15,4 +15,8 @@ path = "src/greates_div.rs"
 name = "kids_candies"
 path = "src/kids_candies.rs"
 
+[[bin]]
+name = "place_flowers"
+path = "src/place_flowers.rs"
+
 [dependencies]
