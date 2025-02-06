@@ -27,4 +27,8 @@ path = "src/reverse_vowels.rs"
 name = "reverse_words"
 path = "src/reverse_words.rs"
 
+[[bin]]
+name = "product_array"
+path = "src/product_array.rs"
+
 [dependencies]
