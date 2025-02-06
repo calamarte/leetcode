@@ -31,4 +31,8 @@ path = "src/reverse_words.rs"
 name = "product_array"
 path = "src/product_array.rs"
 
+[[bin]]
+name = "icreasing_triplet"
+path = "src/icreasing_triplet.rs"
+
 [dependencies]
