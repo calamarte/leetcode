@@ -23,4 +23,8 @@ path = "src/place_flowers.rs"
 name = "reverse_vowels"
 path = "src/reverse_vowels.rs"
 
+[[bin]]
+name = "reverse_words"
+path = "src/reverse_words.rs"
+
 [dependencies]
