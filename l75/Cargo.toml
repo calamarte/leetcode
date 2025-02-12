@@ -35,4 +35,8 @@ path = "src/product_array.rs"
 name = "icreasing_triplet"
 path = "src/icreasing_triplet.rs"
 
+[[bin]]
+name = "string_compress"
+path = "src/string_compress.rs"
+
 [dependencies]
