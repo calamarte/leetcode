@@ -39,4 +39,8 @@ path = "src/icreasing_triplet.rs"
 name = "string_compress"
 path = "src/string_compress.rs"
 
+[[bin]]
+name = "move_zeroes"
+path = "src/move_zeroes.rs"
+
 [dependencies]
