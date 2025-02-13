@@ -47,4 +47,8 @@ path = "src/move_zeroes.rs"
 name = "is_subsequence"
 path = "src/is_subsequence.rs"
 
+[[bin]]
+name = "most_water"
+path = "src/most_water.rs"
+
 [dependencies]
