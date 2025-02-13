@@ -43,4 +43,8 @@ path = "src/string_compress.rs"
 name = "move_zeroes"
 path = "src/move_zeroes.rs"
 
+[[bin]]
+name = "is_subsequence"
+path = "src/is_subsequence.rs"
+
 [dependencies]
