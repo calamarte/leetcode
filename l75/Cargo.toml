@@ -51,4 +51,8 @@ path = "src/is_subsequence.rs"
 name = "most_water"
 path = "src/most_water.rs"
 
+[[bin]]
+name = "max_operations"
+path = "src/max_operations.rs"
+
 [dependencies]
