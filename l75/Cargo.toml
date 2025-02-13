@@ -55,4 +55,8 @@ path = "src/most_water.rs"
 name = "max_operations"
 path = "src/max_operations.rs"
 
+[[bin]]
+name = "max_average"
+path = "src/max_average.rs"
+
 [dependencies]
