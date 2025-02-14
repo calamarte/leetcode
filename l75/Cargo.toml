@@ -59,4 +59,8 @@ path = "src/max_operations.rs"
 name = "max_average"
 path = "src/max_average.rs"
 
+[[bin]]
+name = "max_vowels"
+path = "src/max_vowels.rs"
+
 [dependencies]
