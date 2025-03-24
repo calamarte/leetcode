@@ -71,4 +71,8 @@ path = "src/max_ones.rs"
 name = "longest_after_delete"
 path = "src/longest_after_delete.rs"
 
+[[bin]]
+name = "highest_altitude"
+path = "src/highest_altitude.rs"
+
 [dependencies]
