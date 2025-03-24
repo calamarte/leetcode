@@ -75,4 +75,8 @@ path = "src/longest_after_delete.rs"
 name = "highest_altitude"
 path = "src/highest_altitude.rs"
 
+[[bin]]
+name = "pivot_index"
+path = "src/pivot_index.rs"
+
 [dependencies]
