@@ -67,4 +67,8 @@ path = "src/max_vowels.rs"
 name = "max_ones"
 path = "src/max_ones.rs"
 
+[[bin]]
+name = "longest_after_delete"
+path = "src/longest_after_delete.rs"
+
 [dependencies]
