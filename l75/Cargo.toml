@@ -87,4 +87,8 @@ path = "src/find_difference.rs"
 name = "unique_occurrences"
 path = "src/unique_occurrences.rs"
 
+[[bin]]
+name = "close_string"
+path = "src/close_string.rs"
+
 [dependencies]
