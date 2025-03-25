@@ -95,4 +95,8 @@ path = "src/close_string.rs"
 name = "equal_pairs"
 path = "src/equal_pairs.rs"
 
+[[bin]]
+name = "remove_stars"
+path = "src/remove_stars.rs"
+
 [dependencies]
