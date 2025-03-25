@@ -91,4 +91,8 @@ path = "src/unique_occurrences.rs"
 name = "close_string"
 path = "src/close_string.rs"
 
+[[bin]]
+name = "equal_pairs"
+path = "src/equal_pairs.rs"
+
 [dependencies]
