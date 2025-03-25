@@ -79,4 +79,8 @@ path = "src/highest_altitude.rs"
 name = "pivot_index"
 path = "src/pivot_index.rs"
 
+[[bin]]
+name = "find_difference"
+path = "src/find_difference.rs"
+
 [dependencies]
