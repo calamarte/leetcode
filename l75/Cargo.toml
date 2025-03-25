@@ -83,4 +83,8 @@ path = "src/pivot_index.rs"
 name = "find_difference"
 path = "src/find_difference.rs"
 
+[[bin]]
+name = "unique_occurrences"
+path = "src/unique_occurrences.rs"
+
 [dependencies]
