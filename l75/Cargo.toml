@@ -103,4 +103,8 @@ path = "src/remove_stars.rs"
 name = "asteroid_collision"
 path = "src/asteroid_collision.rs"
 
+[[bin]]
+name = "decode_string"
+path = "src/decode_string.rs"
+
 [dependencies]
