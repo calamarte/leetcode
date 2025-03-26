@@ -99,4 +99,8 @@ path = "src/equal_pairs.rs"
 name = "remove_stars"
 path = "src/remove_stars.rs"
 
+[[bin]]
+name = "asteroid_collision"
+path = "src/asteroid_collision.rs"
+
 [dependencies]
