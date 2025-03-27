@@ -111,4 +111,8 @@ path = "src/decode_string.rs"
 name = "recent_calls"
 path = "src/recent_calls.rs"
 
+[[bin]]
+name = "dota2_senate"
+path = "src/dota2_senate.rs"
+
 [dependencies]
