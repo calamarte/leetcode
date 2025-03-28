@@ -125,3 +125,7 @@ path = "src/delete_middle_node.rs"
 [[bin]]
 name = "odd_even_list"
 path = "src/odd_even_list.rs"
+
+[[bin]]
+name = "reverse_list"
+path = "src/reverse_list.rs"
