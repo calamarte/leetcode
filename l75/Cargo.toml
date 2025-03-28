@@ -121,3 +121,7 @@ path = "src/dota2_senate.rs"
 [[bin]]
 name = "delete_middle_node"
 path = "src/delete_middle_node.rs"
+
+[[bin]]
+name = "odd_even_list"
+path = "src/odd_even_list.rs"
