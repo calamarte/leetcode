@@ -1,6 +1,6 @@
 use std::{cell::RefCell, rc::Rc};
 
-use leetcode::TreeNode;
+use common_lib::TreeNode;
 
 fn main() {
     let (preorder, inorder) = (vec![3, 9, 20, 15, 7], vec![9, 3, 15, 20, 7]);

@@ -1,6 +1,6 @@
 use std::{cell::RefCell, collections::VecDeque, rc::Rc};
 
-use leetcode::TreeNode;
+use common_lib::TreeNode;
 
 #[allow(unused_variables)]
 fn main() {

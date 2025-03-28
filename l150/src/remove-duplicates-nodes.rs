@@ -3,7 +3,7 @@ use std::{
     iter::successors,
 };
 
-use leetcode::{sexy_format, ListNode};
+use common_lib::{sexy_format, ListNode};
 
 fn main() {
     let head = ListNode::from(&[1, 2, 3, 3, 4, 4, 5]);

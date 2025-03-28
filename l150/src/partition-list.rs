@@ -1,4 +1,4 @@
-use leetcode::{sexy_format, ListNode};
+use common_lib::{sexy_format, ListNode};
 
 #[allow(unused_variables)]
 fn main() {

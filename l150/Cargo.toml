@@ -3,6 +3,9 @@ name = "l150"
 version = "0.1.0"
 edition = "2021"
 
+[dependencies]
+common_lib = { path = "../common_lib" }
+
 [[bin]]
 name = "merge-sorted-array"
 path = "src/main.rs"
@@ -582,7 +585,3 @@ path = "src/max_subarray.rs"
 [[bin]]
 name = "max_subarray_circular"
 path = "src/max_subarray_circular.rs"
-
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
-
-[dependencies]

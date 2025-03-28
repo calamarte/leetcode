@@ -1,6 +1,6 @@
 use std::iter::successors;
 
-use leetcode::{sexy_format, ListNode};
+use common_lib::{sexy_format, ListNode};
 
 fn main() {
     let (head, k) = (ListNode::from(&[1, 2, 3, 4, 5]), 2);

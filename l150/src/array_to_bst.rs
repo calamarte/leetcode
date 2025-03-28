@@ -1,6 +1,6 @@
 use std::{cell::RefCell, rc::Rc};
 
-use leetcode::TreeNode;
+use common_lib::TreeNode;
 
 fn main() {
     let nums = vec![-10, -3, 0, 5, 9];

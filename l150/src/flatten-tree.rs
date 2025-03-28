@@ -1,6 +1,6 @@
 use std::{cell::RefCell, rc::Rc};
 
-use leetcode::{right_format, TreeNode};
+use common_lib::{right_format, TreeNode};
 
 #[allow(unused_variables, unused_mut)]
 fn main() {

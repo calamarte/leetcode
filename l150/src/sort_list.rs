@@ -2,7 +2,7 @@
 
 use std::{cmp::Reverse, collections::BinaryHeap, iter::successors};
 
-use leetcode::ListNode;
+use common_lib::ListNode;
 
 fn main() {
     let head = ListNode::from(&[4, 2, 1, 3]);

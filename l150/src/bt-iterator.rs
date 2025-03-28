@@ -1,6 +1,6 @@
 use std::{cell::RefCell, iter::Peekable, rc::Rc, vec};
 
-use leetcode::TreeNode;
+use common_lib::TreeNode;
 
 fn main() {
     let root = TreeNode::from(&[Some(7), Some(3), Some(15), None, None, Some(9), Some(20)]);

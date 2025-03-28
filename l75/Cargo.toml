@@ -3,6 +3,9 @@ name = "l75"
 version = "0.1.0"
 edition = "2021"
 
+[dependencies]
+common_lib = { path = "../common_lib" }
+
 [[bin]]
 name = "merge_alt"
 path = "src/merge_alt.rs"
@@ -115,4 +118,6 @@ path = "src/recent_calls.rs"
 name = "dota2_senate"
 path = "src/dota2_senate.rs"
 
-[dependencies]
+[[bin]]
+name = "delete_middle_node"
+path = "src/delete_middle_node.rs"

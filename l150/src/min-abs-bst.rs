@@ -1,6 +1,6 @@
 use std::{cell::RefCell, cmp, rc::Rc};
 
-use leetcode::TreeNode;
+use common_lib::TreeNode;
 
 fn main() {
     let root = TreeNode::from(&[Some(4), Some(2), Some(6), Some(1), Some(3)]);

@@ -1,6 +1,6 @@
 use std::{cell::RefCell, rc::Rc};
 
-use leetcode::TreeNode;
+use common_lib::TreeNode;
 
 fn main() {
     let root = TreeNode::from(&[Some(2), Some(1), Some(3)]);
@@ -28,7 +28,7 @@ fn is_valid_bst(root: Option<Rc<RefCell<TreeNode>>>) -> bool {
 
     vec.is_sorted()
 
-    // Leetcode manual solution don't allow is_sorted
+    // common_lib manual solution don't allow is_sorted
     // for window in vec.windows(2) {
     //     if window[0] >= window[1] {
     //         return false;
