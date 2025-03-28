@@ -129,3 +129,7 @@ path = "src/odd_even_list.rs"
 [[bin]]
 name = "reverse_list"
 path = "src/reverse_list.rs"
+
+[[bin]]
+name = "max_twins_sum"
+path = "src/max_twins_sum.rs"
