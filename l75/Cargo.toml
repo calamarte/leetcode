@@ -133,3 +133,7 @@ path = "src/reverse_list.rs"
 [[bin]]
 name = "max_twins_sum"
 path = "src/max_twins_sum.rs"
+
+[[bin]]
+name = "max_depth_bt"
+path = "src/max_depth_bt.rs"
