@@ -137,3 +137,7 @@ path = "src/max_twins_sum.rs"
 [[bin]]
 name = "max_depth_bt"
 path = "src/max_depth_bt.rs"
+
+[[bin]]
+name = "leaf_similar_bt"
+path = "src/leaf_similar_bt.rs"
