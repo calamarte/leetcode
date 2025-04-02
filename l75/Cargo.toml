@@ -141,3 +141,7 @@ path = "src/max_depth_bt.rs"
 [[bin]]
 name = "leaf_similar_bt"
 path = "src/leaf_similar_bt.rs"
+
+[[bin]]
+name = "good_nodes"
+path = "src/good_nodes.rs"
