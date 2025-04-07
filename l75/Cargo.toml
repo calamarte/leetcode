@@ -149,3 +149,7 @@ path = "src/good_nodes.rs"
 [[bin]]
 name = "path_sum_3"
 path = "src/path_sum_3.rs"
+
+[[bin]]
+name = "longest_zig_zag"
+path = "src/longest_zig_zag.rs"
