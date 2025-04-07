@@ -145,3 +145,7 @@ path = "src/leaf_similar_bt.rs"
 [[bin]]
 name = "good_nodes"
 path = "src/good_nodes.rs"
+
+[[bin]]
+name = "path_sum_3"
+path = "src/path_sum_3.rs"
