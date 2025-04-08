@@ -161,3 +161,7 @@ path = "src/lowest_common_ancestor.rs"
 [[bin]]
 name = "right_side_view"
 path = "src/right_side_view.rs"
+
+[[bin]]
+name = "max_level_sum"
+path = "src/max_level_sum.rs"
