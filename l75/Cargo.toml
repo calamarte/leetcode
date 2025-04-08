@@ -165,3 +165,7 @@ path = "src/right_side_view.rs"
 [[bin]]
 name = "max_level_sum"
 path = "src/max_level_sum.rs"
+
+[[bin]]
+name = "search_bst"
+path = "src/search_bst.rs"
