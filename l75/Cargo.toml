@@ -157,3 +157,7 @@ path = "src/longest_zig_zag.rs"
 [[bin]]
 name = "lowest_common_ancestor"
 path = "src/lowest_common_ancestor.rs"
+
+[[bin]]
+name = "right_side_view"
+path = "src/right_side_view.rs"
