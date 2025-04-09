@@ -169,3 +169,7 @@ path = "src/max_level_sum.rs"
 [[bin]]
 name = "search_bst"
 path = "src/search_bst.rs"
+
+[[bin]]
+name = "delete_node_bst"
+path = "src/delete_node_bst.rs"
