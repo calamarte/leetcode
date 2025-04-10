@@ -177,3 +177,7 @@ path = "src/delete_node_bst.rs"
 [[bin]]
 name = "can_visit_all_rooms"
 path = "src/can_visit_all_rooms.rs"
+
+[[bin]]
+name = "find_circle_sum"
+path = "src/find_circle_sum.rs"
