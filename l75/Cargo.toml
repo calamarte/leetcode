@@ -173,3 +173,7 @@ path = "src/search_bst.rs"
 [[bin]]
 name = "delete_node_bst"
 path = "src/delete_node_bst.rs"
+
+[[bin]]
+name = "can_visit_all_rooms"
+path = "src/can_visit_all_rooms.rs"
