@@ -185,3 +185,7 @@ path = "src/find_circle_sum.rs"
 [[bin]]
 name = "min_reorder"
 path = "src/min_reorder.rs"
+
+[[bin]]
+name = "calc_equation"
+path = "src/calc_equation.rs"
