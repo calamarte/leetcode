@@ -201,3 +201,7 @@ path = "src/oranges_rotting.rs"
 [[bin]]
 name = "find_kth_largest"
 path = "src/find_kth_largest.rs"
+
+[[bin]]
+name = "smallest_infinite_set"
+path = "src/smallest_infinite_set.rs"
