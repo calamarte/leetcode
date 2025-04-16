@@ -193,3 +193,7 @@ path = "src/calc_equation.rs"
 [[bin]]
 name = "nearest_exit"
 path = "src/nearest_exit.rs"
+
+[[bin]]
+name = "oranges_rotting"
+path = "src/oranges_rotting.rs"
