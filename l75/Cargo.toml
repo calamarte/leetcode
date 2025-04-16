@@ -197,3 +197,7 @@ path = "src/nearest_exit.rs"
 [[bin]]
 name = "oranges_rotting"
 path = "src/oranges_rotting.rs"
+
+[[bin]]
+name = "find_kth_largest"
+path = "src/find_kth_largest.rs"
