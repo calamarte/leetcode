@@ -189,3 +189,7 @@ path = "src/min_reorder.rs"
 [[bin]]
 name = "calc_equation"
 path = "src/calc_equation.rs"
+
+[[bin]]
+name = "nearest_exit"
+path = "src/nearest_exit.rs"
