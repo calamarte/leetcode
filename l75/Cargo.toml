@@ -213,3 +213,7 @@ path = "src/max_score.rs"
 [[bin]]
 name = "total_cost"
 path = "src/total_cost.rs"
+
+[[bin]]
+name = "guess_number"
+path = "src/guess_number.rs"
