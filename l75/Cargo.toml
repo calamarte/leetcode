@@ -205,3 +205,7 @@ path = "src/find_kth_largest.rs"
 [[bin]]
 name = "smallest_infinite_set"
 path = "src/smallest_infinite_set.rs"
+
+[[bin]]
+name = "max_score"
+path = "src/max_score.rs"
