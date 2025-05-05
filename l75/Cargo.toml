@@ -209,3 +209,7 @@ path = "src/smallest_infinite_set.rs"
 [[bin]]
 name = "max_score"
 path = "src/max_score.rs"
+
+[[bin]]
+name = "total_cost"
+path = "src/total_cost.rs"
