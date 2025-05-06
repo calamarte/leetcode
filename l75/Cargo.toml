@@ -217,3 +217,7 @@ path = "src/total_cost.rs"
 [[bin]]
 name = "guess_number"
 path = "src/guess_number.rs"
+
+[[bin]]
+name = "successful_pairs"
+path = "src/successful_pairs.rs"
