@@ -221,3 +221,7 @@ path = "src/guess_number.rs"
 [[bin]]
 name = "successful_pairs"
 path = "src/successful_pairs.rs"
+
+[[bin]]
+name = "find_peak_element"
+path = "src/find_peak_element.rs"
