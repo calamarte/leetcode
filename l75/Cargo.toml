@@ -233,3 +233,7 @@ path = "src/min_eating_speed.rs"
 [[bin]]
 name = "letter_combinations"
 path = "src/letter_combinations.rs"
+
+[[bin]]
+name = "combination_sum3"
+path = "src/combination_sum3.rs"
