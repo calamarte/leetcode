@@ -229,3 +229,7 @@ path = "src/find_peak_element.rs"
 [[bin]]
 name = "min_eating_speed"
 path = "src/min_eating_speed.rs"
+
+[[bin]]
+name = "letter_combinations"
+path = "src/letter_combinations.rs"
