@@ -241,3 +241,7 @@ path = "src/combination_sum3.rs"
 [[bin]]
 name = "tribonacci"
 path = "src/tribonacci.rs"
+
+[[bin]]
+name = "min_cost_climbing_stairs"
+path = "src/min_cost_climbing_stairs.rs"
