@@ -249,3 +249,7 @@ path = "src/min_cost_climbing_stairs.rs"
 [[bin]]
 name = "rob"
 path = "src/rob.rs"
+
+[[bin]]
+name = "num_tilings"
+path = "src/num_tilings.rs"
