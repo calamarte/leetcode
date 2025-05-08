@@ -245,3 +245,7 @@ path = "src/tribonacci.rs"
 [[bin]]
 name = "min_cost_climbing_stairs"
 path = "src/min_cost_climbing_stairs.rs"
+
+[[bin]]
+name = "rob"
+path = "src/rob.rs"
