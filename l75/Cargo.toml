@@ -253,3 +253,7 @@ path = "src/rob.rs"
 [[bin]]
 name = "num_tilings"
 path = "src/num_tilings.rs"
+
+[[bin]]
+name = "unique_paths"
+path = "src/unique_paths.rs"
