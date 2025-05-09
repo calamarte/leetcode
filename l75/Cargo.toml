@@ -261,3 +261,8 @@ path = "src/unique_paths.rs"
 [[bin]]
 name = "longest_common_subsequence"
 path = "src/longest_common_subsequence.rs"
+
+[[bin]]
+name = "max_profit"
+path = "src/max_profit.rs"
+
