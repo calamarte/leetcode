@@ -257,3 +257,7 @@ path = "src/num_tilings.rs"
 [[bin]]
 name = "unique_paths"
 path = "src/unique_paths.rs"
+
+[[bin]]
+name = "longest_common_subsequence"
+path = "src/longest_common_subsequence.rs"
