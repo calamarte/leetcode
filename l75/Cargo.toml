@@ -266,3 +266,7 @@ path = "src/longest_common_subsequence.rs"
 name = "max_profit"
 path = "src/max_profit.rs"
 
+[[bin]]
+name = "edit_distance"
+path = "src/edit_distance.rs"
+
