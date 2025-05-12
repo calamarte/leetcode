@@ -274,3 +274,7 @@ path = "src/edit_distance.rs"
 name = "count_bits"
 path = "src/count_bits.rs"
 
+[[bin]]
+name = "single_number"
+path = "src/single_number.rs"
+
