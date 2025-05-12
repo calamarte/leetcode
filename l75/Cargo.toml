@@ -270,3 +270,7 @@ path = "src/max_profit.rs"
 name = "edit_distance"
 path = "src/edit_distance.rs"
 
+[[bin]]
+name = "count_bits"
+path = "src/count_bits.rs"
+
