@@ -285,3 +285,7 @@ path = "src/min_flips.rs"
 [[bin]]
 name = "trie"
 path = "src/trie.rs"
+
+[[bin]]
+name = "suggested_products"
+path = "src/suggested_products.rs"
