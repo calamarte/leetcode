@@ -293,3 +293,7 @@ path = "src/suggested_products.rs"
 [[bin]]
 name = "erase_overlap_intervals"
 path = "src/erase_overlap_intervals.rs"
+
+[[bin]]
+name = "find_min_arrow_shots"
+path = "src/find_min_arrow_shots.rs"
