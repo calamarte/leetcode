@@ -278,3 +278,6 @@ path = "src/count_bits.rs"
 name = "single_number"
 path = "src/single_number.rs"
 
+[[bin]]
+name = "min_flips"
+path = "src/min_flips.rs"
