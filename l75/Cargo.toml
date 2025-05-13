@@ -281,3 +281,7 @@ path = "src/single_number.rs"
 [[bin]]
 name = "min_flips"
 path = "src/min_flips.rs"
+
+[[bin]]
+name = "trie"
+path = "src/trie.rs"
