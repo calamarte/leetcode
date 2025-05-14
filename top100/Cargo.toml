@@ -7,4 +7,8 @@ edition = "2021"
 name = "letter_combinations"
 path = "src/letter_combinations.rs"
 
+[[bin]]
+name = "generate_parenthesis"
+path = "src/generate_parenthesis.rs"
+
 [dependencies]
