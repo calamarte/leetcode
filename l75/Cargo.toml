@@ -297,3 +297,7 @@ path = "src/erase_overlap_intervals.rs"
 [[bin]]
 name = "find_min_arrow_shots"
 path = "src/find_min_arrow_shots.rs"
+
+[[bin]]
+name = "daily_temperatures"
+path = "src/daily_temperatures.rs"
