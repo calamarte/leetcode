@@ -1,2 +1,2 @@
 [workspace]
-members = ["common_lib", "l150", "l75"]
+members = ["common_lib", "l150", "l75", "top100"]

@@ -1,0 +1,10 @@
+[package]
+name = "top100"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "letter_combinations"
+path = "src/letter_combinations.rs"
+
+[dependencies]
