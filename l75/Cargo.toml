@@ -301,3 +301,7 @@ path = "src/find_min_arrow_shots.rs"
 [[bin]]
 name = "daily_temperatures"
 path = "src/daily_temperatures.rs"
+
+[[bin]]
+name = "online_stock_span"
+path = "src/online_stock_span.rs"
