@@ -15,4 +15,8 @@ path = "src/generate_parenthesis.rs"
 name = "combination_sum"
 path = "src/combination_sum.rs"
 
+[[bin]]
+name = "permutations"
+path = "src/permutations.rs"
+
 [dependencies]
