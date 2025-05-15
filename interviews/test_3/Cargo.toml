@@ -1,0 +1,14 @@
+[package]
+name = "test_3"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "relative_sort_array"
+path = "src/relative_sort_array.rs"
+
+[[bin]]
+name = "num_rolls_to_target"
+path = "src/num_rolls_to_target.rs"
+
+[dependencies]
