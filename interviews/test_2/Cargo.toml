@@ -1,0 +1,14 @@
+[package]
+name = "test_2"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "common_chars"
+path = "src/common_chars.rs"
+
+[[bin]]
+name = "balanced_string_split"
+path = "src/balanced_string_split.rs"
+
+[dependencies]
