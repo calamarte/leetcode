@@ -19,4 +19,8 @@ path = "src/combination_sum.rs"
 name = "permutations"
 path = "src/permutations.rs"
 
+[[bin]]
+name = "solve_n_queens"
+path = "src/solve_n_queens.rs"
+
 [dependencies]
