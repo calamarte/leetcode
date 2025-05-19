@@ -23,4 +23,8 @@ path = "src/permutations.rs"
 name = "solve_n_queens"
 path = "src/solve_n_queens.rs"
 
+[[bin]]
+name = "subsets"
+path = "src/subsets.rs"
+
 [dependencies]
