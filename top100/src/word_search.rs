@@ -1,8 +1,8 @@
-use std::collections::HashSet;
-
 ///
 /// # [79. Word Search](https://leetcode.com/problems/word-search/)
 ///
+use std::collections::HashSet;
+
 #[allow(unused_variables)]
 fn main() {
     let (board, word) = (
