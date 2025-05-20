@@ -27,4 +27,8 @@ path = "src/solve_n_queens.rs"
 name = "subsets"
 path = "src/subsets.rs"
 
+[[bin]]
+name = "word_search"
+path = "src/word_search.rs"
+
 [dependencies]
