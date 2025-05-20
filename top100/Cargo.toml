@@ -35,4 +35,8 @@ path = "src/word_search.rs"
 name = "partition"
 path = "src/partition.rs"
 
+[[bin]]
+name = "search_insert"
+path = "src/search_insert.rs"
+
 [dependencies]
