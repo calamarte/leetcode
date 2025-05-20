@@ -39,4 +39,8 @@ path = "src/partition.rs"
 name = "search_insert"
 path = "src/search_insert.rs"
 
+[[bin]]
+name = "find_median_sorted_arrays"
+path = "src/find_median_sorted_arrays.rs"
+
 [dependencies]
