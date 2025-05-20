@@ -31,4 +31,8 @@ path = "src/subsets.rs"
 name = "word_search"
 path = "src/word_search.rs"
 
+[[bin]]
+name = "partition"
+path = "src/partition.rs"
+
 [dependencies]
