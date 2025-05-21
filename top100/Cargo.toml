@@ -47,4 +47,8 @@ path = "src/find_median_sorted_arrays.rs"
 name = "search_rotated"
 path = "src/search_rotated.rs"
 
+[[bin]]
+name = "search_range"
+path = "src/search_range.rs"
+
 [dependencies]
