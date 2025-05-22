@@ -51,4 +51,8 @@ path = "src/search_rotated.rs"
 name = "search_range"
 path = "src/search_range.rs"
 
+[[bin]]
+name = "search_matrix"
+path = "src/search_matrix.rs"
+
 [dependencies]
