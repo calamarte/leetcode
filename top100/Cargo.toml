@@ -3,6 +3,9 @@ name = "top100"
 version = "0.1.0"
 edition = "2021"
 
+[dependencies]
+common_lib = { path = "../common_lib" }
+
 [[bin]]
 name = "letter_combinations"
 path = "src/letter_combinations.rs"
@@ -55,4 +58,6 @@ path = "src/search_range.rs"
 name = "search_matrix"
 path = "src/search_matrix.rs"
 
-[dependencies]
+[[bin]]
+name = "max_path_sum"
+path = "src/max_path_sum.rs"
