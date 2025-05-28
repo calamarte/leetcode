@@ -61,3 +61,7 @@ path = "src/search_matrix.rs"
 [[bin]]
 name = "find_min"
 path = "src/find_min.rs"
+
+[[bin]]
+name = "inorder_traversal"
+path = "src/inorder_traversal.rs"
