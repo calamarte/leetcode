@@ -101,3 +101,7 @@ path = "src/right_side_view.rs"
 [[bin]]
 name = "invert_tree"
 path = "src/invert_tree.rs"
+
+[[bin]]
+name = "kth_smallest"
+path = "src/kth_smallest.rs"
