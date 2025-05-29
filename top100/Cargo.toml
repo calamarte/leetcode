@@ -85,3 +85,7 @@ path = "src/max_depth.rs"
 [[bin]]
 name = "build_tree"
 path = "src/build_tree.rs"
+
+[[bin]]
+name = "sorted_array_to_bst"
+path = "src/sorted_array_to_bst.rs"
