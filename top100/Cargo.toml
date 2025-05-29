@@ -73,3 +73,7 @@ path = "src/is_valid_bst.rs"
 [[bin]]
 name = "is_symmetric"
 path = "src/is_symmetric.rs"
+
+[[bin]]
+name = "level_order"
+path = "src/level_order.rs"
