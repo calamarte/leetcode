@@ -89,3 +89,7 @@ path = "src/build_tree.rs"
 [[bin]]
 name = "sorted_array_to_bst"
 path = "src/sorted_array_to_bst.rs"
+
+[[bin]]
+name = "flatten"
+path = "src/flatten.rs"
