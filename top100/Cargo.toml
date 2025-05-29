@@ -97,3 +97,7 @@ path = "src/flatten.rs"
 [[bin]]
 name = "right_side_view"
 path = "src/right_side_view.rs"
+
+[[bin]]
+name = "invert_tree"
+path = "src/invert_tree.rs"
