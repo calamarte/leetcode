@@ -69,3 +69,7 @@ path = "src/inorder_traversal.rs"
 [[bin]]
 name = "is_valid_bst"
 path = "src/is_valid_bst.rs"
+
+[[bin]]
+name = "is_symmetric"
+path = "src/is_symmetric.rs"
