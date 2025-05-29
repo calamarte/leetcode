@@ -81,3 +81,7 @@ path = "src/level_order.rs"
 [[bin]]
 name = "max_depth"
 path = "src/max_depth.rs"
+
+[[bin]]
+name = "build_tree"
+path = "src/build_tree.rs"
