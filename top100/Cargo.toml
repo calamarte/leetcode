@@ -93,3 +93,7 @@ path = "src/sorted_array_to_bst.rs"
 [[bin]]
 name = "flatten"
 path = "src/flatten.rs"
+
+[[bin]]
+name = "right_side_view"
+path = "src/right_side_view.rs"
