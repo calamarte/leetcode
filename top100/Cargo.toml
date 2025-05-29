@@ -77,3 +77,7 @@ path = "src/is_symmetric.rs"
 [[bin]]
 name = "level_order"
 path = "src/level_order.rs"
+
+[[bin]]
+name = "max_depth"
+path = "src/max_depth.rs"
