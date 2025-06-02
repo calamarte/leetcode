@@ -105,3 +105,7 @@ path = "src/invert_tree.rs"
 [[bin]]
 name = "kth_smallest"
 path = "src/kth_smallest.rs"
+
+[[bin]]
+name = "diameter_of_binary_tree"
+path = "src/diameter_of_binary_tree.rs"
